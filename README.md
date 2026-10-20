@@ -4,7 +4,7 @@ The exact path I would follow if I had to learn AI automation for sales from zer
 
 By Onit Tindwani, co founder and CTO of Sendora AI. Over the last 2 and a half years we went from knowing nothing about automation to building complete AI sales systems with Claude Code, and along the way we booked over 1,600 qualified appointments and more than 10 million dollars in client pipeline for our clients.
 
-**The video board (FigJam):** {{FIGJAM_PUBLIC_URL}}
+**The video board (FigJam):** https://www.figma.com/board/mj8Hn6dpYOkjC5vBCXXPpL/AI-Sales-Automation-Starter-Kit--8-Step-Path-Board--Public--view-only-
 
 ## Who this is for
 

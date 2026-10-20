@@ -193,8 +193,8 @@ def check_readme() -> list[str]:
         return []
     text = readme.read_text(encoding="utf-8")
     errors = []
-    if "{{FIGJAM_PUBLIC_URL}}" not in text and "figma.com" not in text:
-        errors.append("README.md: board link or {{FIGJAM_PUBLIC_URL}} placeholder missing")
+    if "https://www.figma.com/board/mj8Hn6dpYOkjC5vBCXXPpL/AI-Sales-Automation-Starter-Kit--8-Step-Path-Board--Public--view-only-" not in text and "figma.com" not in text:
+        errors.append("README.md: board link or https://www.figma.com/board/mj8Hn6dpYOkjC5vBCXXPpL/AI-Sales-Automation-Starter-Kit--8-Step-Path-Board--Public--view-only- placeholder missing")
     if "By Onit Tindwani, co founder and CTO of Sendora AI" not in text:
         errors.append("README.md: credits line missing")
     return errors

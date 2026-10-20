@@ -35,7 +35,7 @@ Read this first:
 
 - **Website:** [ultravox.ai](https://www.ultravox.ai) (developer docs: [docs.ultravox.ai](https://docs.ultravox.ai))
 - **What it does for us:** runs our AI voice calls. Our backend starts each call through the Ultravox API, and when a call ends, Ultravox sends a webhook back to our backend with the result, so our system can analyse it.
-- **Why we picked it:** the best voice tool we have used. Great voice models, proper calling limits, pay as you go pricing, very low delay on the call (latency), and consistently great results. We have used it since around December 2025.
+- **Why we picked it:** it is the cheapest voice tool we have found. It is pay as you go, and in our use it comes to about 5 to 7 cents per minute of voice talked on a call. It is also the best voice tool we have used: great voice models, proper calling limits, very low delay on the call (latency), and consistently great results. We have used it since around December 2025.
 - **Good to know:** Ultravox does not give you phone numbers by itself. Its docs list native support for Twilio, Telnyx, Plivo and Exotel, plus SIP (checked 20 October 2026). The Ultravox website also says Ultravox has been acquired by Inworld (seen 20 October 2026).
 
 ### LinkedIn: Unipile
@@ -159,6 +159,6 @@ These are **past prices, what we paid at the time**, from our own memory. They a
 | 1 | [Vapi](https://vapi.ai) | About 14 cents | The most famous voice tool when we started, but expensive for us |
 | 2 | [Bland](https://www.bland.ai) | About 9 cents | Cheaper for us back then. We ran our first cold calling campaigns on it |
 | 3 | [Retell](https://www.retellai.com) | Between about 7 and 11 cents | Widely used, but it still got too expensive for us |
-| 4 | [Ultravox](https://www.ultravox.ai) | Pay as you go | Since around December 2025. The best voice tool we have used |
+| 4 | [Ultravox](https://www.ultravox.ai) | Pay as you go, about 5 to 7 cents in our use | Since around December 2025. The cheapest and the best voice tool we have used |
 
 **How to compare voice tools yourself:** price per minute all in (platform, model, voice, phone line), delay on the call, how many calls can run at the same time, API and webhook quality, and how natural the voice sounds to your buyers. Run the same 10 test calls on each before you decide.
